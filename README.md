@@ -3,6 +3,7 @@
 🚀 **Full Stack Developer | MERN Stack Enthusiast**
  Currently learning **AI Automation**
 📍 Pune, India
+<br>
 📫 Reach me at: **[kerulkarvedant25@gmail.com](mailto:kerulkarvedant25@gmail.com)**/
                  **[kerulkarvedant@gmail.com](mailto:kerulkarvedant@gmail.com)**
 
@@ -27,7 +28,7 @@ Motivated and enthusiastic **Full Stack Developer** with hands-on experience in 
 ### 🚀 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html<br>css<br>js<br>react" />
 </p>
 
 ### ⚙️ Backend
