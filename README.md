@@ -3,7 +3,7 @@
 🚀 **Full Stack Developer | MERN Stack Enthusiast**
  Currently learning **AI Automation**
 📍 Pune, India
-📫 Reach me at: **[kerulkarvedant25@gmail.com](mailto:kerulkarvedant25@gmail.com)**
+📫 Reach me at: **[kerulkarvedant25@gmail.com](mailto:kerulkarvedant25@gmail.com)**/
                  **[kerulkarvedant@gmail.com](mailto:kerulkarvedant@gmail.com)**
 
 ---
