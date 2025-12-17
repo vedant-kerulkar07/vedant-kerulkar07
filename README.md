@@ -1,7 +1,7 @@
 # Hi 👋, I'm **Vedant Kerulkar**
 
 🚀 **Full Stack Developer | MERN Stack Enthusiast**
-🌱 Currently learning **Advanced Backend, Microservices & AI Automation**
+ Currently learning **AI Automation**
 📍 Pune, India
 📫 Reach me at: **[kerulkarvedant25@gmail.com](mailto:kerulkarvedant25@gmail.com)**
                  **[kerulkarvedant@gmail.com](mailto:kerulkarvedant@gmail.com)**
