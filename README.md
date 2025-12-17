@@ -2,6 +2,7 @@
 
 🚀 **Full Stack Developer | MERN Stack Enthusiast**
  Currently learning **AI Automation**
+ <br>
 📍 Pune, India
 <br>
 📫 Reach me at: **[kerulkarvedant25@gmail.com](mailto:kerulkarvedant25@gmail.com)**/
@@ -28,7 +29,7 @@ Motivated and enthusiastic **Full Stack Developer** with hands-on experience in 
 ### 🚀 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html<br>css<br>js<br>react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### ⚙️ Backend
@@ -110,14 +111,6 @@ Modern College, Pune
 New Arts, Commerce & Science College, Ahmednagar
 
 ---
-
-## 📊 GitHub Stats
-
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedant-kerulkar07\&show_icons=true\&theme=tokyonight)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vedant-kerulkar07\&theme=onedark)
 
 ## 🔝 Top Languages
 
