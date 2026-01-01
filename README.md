@@ -47,7 +47,7 @@ Motivated and enthusiastic **Full Stack Developer** with hands-on experience in 
 ### ☁️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,render" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,Render" />
 </p>
 
 ### 🤖 AI & Automation
