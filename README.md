@@ -112,10 +112,4 @@ New Arts, Commerce & Science College, Ahmednagar
 
 ---
 
-## 🔝 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-kerulkar07\&layout=compact\&theme=tokyonight)
-
----
-
 ⚡ **Fun Fact:** I enjoy collaborating with teams to solve real-world problems and continuously upskill myself 🚀
