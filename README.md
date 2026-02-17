@@ -73,7 +73,7 @@ Motivated and enthusiastic **Full Stack Developer** with hands-on experience in 
 
 ### 🌦️ Weather Dashboard
 
-🔗 [https://react-weatherdashboard.netlify.app](https://react-weatherdashboard.netlify.app)
+🔗 [https://react-weatherdashboard.netlify.app]([https://forecastdesk.netlify.app/])
 
 * Real-time weather updates using OpenWeather API
 * Dynamic icons and responsive UI
