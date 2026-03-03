@@ -81,7 +81,7 @@ Motivated and enthusiastic **Full Stack Developer** with hands-on experience in 
 
 ### 💰 Fin-View
 
-🔗 [https://fin-view.vercel.app/](https://fin-view-n7qb.vercel.app/)
+🔗 [https://fin-view.vercel.app/](https://fin-view-application.vercel.app/)
 
 * Full-stack expense tracker with authentication
 * CRUD operations for needs, wants & savings
